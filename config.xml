@@ -11,12 +11,12 @@
 	</author>
 	
 	  <icon src="icon.png" />
-	   <splash src="splash.png" />
+	  <splash src="splash.png" />
 	
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	<plugin name="cordova-plugin-network-information" spec="2.0.1" />
-	
+	<plugin name="cordova-plugin-splashscreen" spec="2.0.1" />
 
 </widget>
