@@ -20,3 +20,12 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function personalInfo() {
+
+	info =  `Hi, I am Maciej from Poland 
+			Dean's group number: 202079
+			City: Krakow `
+
+	navigator.notification.alert(info);
+	
+}
