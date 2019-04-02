@@ -12,7 +12,7 @@
 	
 
 	<platform name="android">
-    <splash src="res/screen/android/splash-land-hdpi.png" density="land-hdpi"/>
+    <splash src="www\img\splashscreen.png" density="land-hdpi"/>
 	<platform/>
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
